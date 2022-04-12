@@ -10,7 +10,8 @@
 _Особенности с которыми я столкнулся:_
 * Введение в http пакет
 * Обработка ошибок
-*
+*- Создание файла от его имени в функцию ‘loadPage’
+
 
 ![photo](https://github.com/Stepa-Nos/WebNote/blob/main/WebNote_photo1.png)
 ![photo](https://github.com/Stepa-Nos/WebNote/blob/main/WebNote_photo2.png)
